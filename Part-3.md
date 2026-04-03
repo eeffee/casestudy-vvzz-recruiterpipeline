@@ -3,7 +3,8 @@ Part 3 - Future AI/RAG Extension
 Focus: assist the recruiter searches for talent that match a job. recruiter can ask questions, wants summaries, can reach to the candidate.
 
 Data to include in RAG:   
-                         - Job descriptions(Part 1)
+
+                          - Job descriptions(Part 1)
                          - Talent profile (this can be created with manipulation of talent DB)
                          - company enrichment data 
 
@@ -22,9 +23,11 @@ Metadata and access control:
                          - apply filtering at any time
 
 Update strategy: 
+
                         - new talents or jobs can be embedded and insert
                         - weekly refresh for updated profiles
 Failure modes:
+
                         - hallucination
                         - irrelavant talents might return
                             
