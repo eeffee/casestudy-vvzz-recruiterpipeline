@@ -13,7 +13,7 @@
 1. Install Python 3.8+ 
 2. Install dependencies (only pandas required):
 
-## Schema of allset_data.csv
+## Schema of allset_jobs.csv
 - id – int
 - title – string
 - company – string
